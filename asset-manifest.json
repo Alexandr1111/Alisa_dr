@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/masha_invite/static/css/main.4ef96486.css",
-    "main.js": "/masha_invite/static/js/main.d3cc4e08.js",
-    "static/js/453.6b8b828c.chunk.js": "/masha_invite/static/js/453.6b8b828c.chunk.js",
-    "static/media/applause6.mp3": "/masha_invite/static/media/applause6.74e416488006163c6fed.mp3",
-    "index.html": "/masha_invite/index.html",
-    "main.4ef96486.css.map": "/masha_invite/static/css/main.4ef96486.css.map",
-    "main.d3cc4e08.js.map": "/masha_invite/static/js/main.d3cc4e08.js.map",
-    "453.6b8b828c.chunk.js.map": "/masha_invite/static/js/453.6b8b828c.chunk.js.map"
+    "main.css": "/Alisa_dr/static/css/main.d25d66bf.css",
+    "main.js": "/Alisa_dr/static/js/main.0fb591b5.js",
+    "static/js/453.65427946.chunk.js": "/Alisa_dr/static/js/453.65427946.chunk.js",
+    "static/media/applause6.mp3": "/Alisa_dr/static/media/applause6.74e416488006163c6fed.mp3",
+    "index.html": "/Alisa_dr/index.html",
+    "main.d25d66bf.css.map": "/Alisa_dr/static/css/main.d25d66bf.css.map",
+    "main.0fb591b5.js.map": "/Alisa_dr/static/js/main.0fb591b5.js.map",
+    "453.65427946.chunk.js.map": "/Alisa_dr/static/js/453.65427946.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ef96486.css",
-    "static/js/main.d3cc4e08.js"
+    "static/css/main.d25d66bf.css",
+    "static/js/main.0fb591b5.js"
   ]
 }
