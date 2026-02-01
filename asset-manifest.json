@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Alisa_dr/static/css/main.d25d66bf.css",
-    "main.js": "/Alisa_dr/static/js/main.3b1ccca3.js",
+    "main.js": "/Alisa_dr/static/js/main.9101f1d7.js",
     "static/js/453.65427946.chunk.js": "/Alisa_dr/static/js/453.65427946.chunk.js",
     "index.html": "/Alisa_dr/index.html",
     "main.d25d66bf.css.map": "/Alisa_dr/static/css/main.d25d66bf.css.map",
-    "main.3b1ccca3.js.map": "/Alisa_dr/static/js/main.3b1ccca3.js.map",
+    "main.9101f1d7.js.map": "/Alisa_dr/static/js/main.9101f1d7.js.map",
     "453.65427946.chunk.js.map": "/Alisa_dr/static/js/453.65427946.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d25d66bf.css",
-    "static/js/main.3b1ccca3.js"
+    "static/js/main.9101f1d7.js"
   ]
 }
